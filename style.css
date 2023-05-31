@@ -213,6 +213,7 @@ header img {
     justify-self: first baseline;
     position: absolute;
     margin-top: 8px;
+    margin-right: 20px;
     width: 100px;
     height: 30px;
     background-color: transparent;
